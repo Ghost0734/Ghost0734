@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Ghost0734/Ghost0734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abhishek, an AI/ML & GenAI enthusiast based in Delhi, India.
 
-Here are some ideas to get you started:
+I enjoy building practical AI applications with Python, Machine Learning, RAG, and LLMs. I'm especially interested in exploring how AI can be turned into useful, real-world products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning, building, and experimenting with new ideas in AI while working toward becoming a better engineer.
+
+---
+
+## Tools & Tech
+
+- 🐍 Python, SQL
+- 🤖 Machine Learning, NLP, Generative AI
+- 🧠 RAG, LLMs, Prompt Engineering
+- ⚡ FastAPI, Streamlit, REST APIs
+- ☁️ AWS, Docker
+- 📊 Pandas, NumPy, Scikit-learn
+- 🔧 Git, GitHub, Jupyter, VS Code
+
+---
+
+## A Bit About Me
+
+- 🤖 Big anime fan
+- 🏋️ Gym is part of the routine
+- ☕ Coffee enthusiast
+- 🎮 Gaming when I'm not coding
+
+---
+
+## What I'm Building
+
+🔹 **StudyMind AI** — A RAG-powered study assistant using Gemini, ChromaDB, FastAPI, Docker, and AWS.
+
+🔹 **Fake News Detector** — An NLP classification project using TF-IDF and Logistic Regression.
+
+🔹 **Sales Forecasting** — A machine learning project analysing advertising impact and predicting sales.
+
+---
+
+## Let's Connect
+
+Always happy to connect with people interested in AI, technology, anime, or just building cool things. 🚀
